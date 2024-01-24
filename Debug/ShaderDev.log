@@ -1,0 +1,69 @@
+﻿  Camera.cpp
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(138,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(139,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(140,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.inl(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_integer.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  EBO.cpp
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(138,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(139,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(140,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.inl(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_integer.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Main.cpp
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(138,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(139,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(140,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.inl(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_integer.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Mesh.cpp
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(138,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(139,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(140,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.inl(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_integer.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Shader.cpp
+G:\Project\ShaderDev\Shader.cpp(11,27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  ShadowMap.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(138,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(139,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(140,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.inl(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_integer.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  VBO.cpp
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(138,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(139,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\type_half.inl(140,12): warning C5033: 'register' is no longer a supported storage class
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_common.inl(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+G:\Project\ShaderDev\Libraries\include\glm\core\func_integer.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  glad.c
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+Camera.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function "public: void __thiscall Camera::Inputs(struct GLFWwindow *)" (?Inputs@Camera@@QAEXPAUGLFWwindow@@@Z)
+Camera.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "public: void __thiscall Camera::Inputs(struct GLFWwindow *)" (?Inputs@Camera@@QAEXPAUGLFWwindow@@@Z)
+Main.obj : error LNK2001: unresolved external symbol _glfwGetKey
+Camera.obj : error LNK2019: unresolved external symbol _glfwGetMouseButton referenced in function "public: void __thiscall Camera::Inputs(struct GLFWwindow *)" (?Inputs@Camera@@QAEXPAUGLFWwindow@@@Z)
+Camera.obj : error LNK2019: unresolved external symbol _glfwGetCursorPos referenced in function "public: void __thiscall Camera::Inputs(struct GLFWwindow *)" (?Inputs@Camera@@QAEXPAUGLFWwindow@@@Z)
+Camera.obj : error LNK2019: unresolved external symbol _glfwSetCursorPos referenced in function "public: void __thiscall Camera::Inputs(struct GLFWwindow *)" (?Inputs@Camera@@QAEXPAUGLFWwindow@@@Z)
+Main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSetMouseButtonCallback referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+G:\Project\ShaderDev\Libraries\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+G:\Project\ShaderDev\Debug\ShaderDev.exe : fatal error LNK1120: 16 unresolved externals

@@ -1,0 +1,5 @@
+#include <functional>
+class CInput
+{
+    
+};

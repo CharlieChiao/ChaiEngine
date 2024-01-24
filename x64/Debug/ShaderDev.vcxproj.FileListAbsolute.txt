@@ -1,0 +1,2 @@
+E:\Homework\2021Fall\TechnicalArt\ShaderDev\ShaderDev\x64\Debug\ShaderDev.exe
+G:\Project\ShaderDev\x64\Debug\ShaderDev.exe
