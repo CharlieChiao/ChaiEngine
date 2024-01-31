@@ -4,7 +4,7 @@
 #include <string>
 #include "VAO.h"
 #include "EBO.h"
-#include "Camera.h"
+#include "Engine/Source/Camera/Public/Camera.h"
 #include "Texture.h"
 
 using namespace std;

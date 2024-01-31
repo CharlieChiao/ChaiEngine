@@ -1,5 +1,0 @@
-#include <functional>
-class CInput
-{
-    
-};
